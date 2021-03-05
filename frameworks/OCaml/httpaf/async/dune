@@ -1,0 +1,4 @@
+(executable
+ (name httpaf_async)
+ (preprocess (pps ppx_let))
+ (libraries httpaf httpaf-async async core yojson ppx_let))

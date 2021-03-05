@@ -21,6 +21,27 @@
         "notes": "",
         "versus": "None"
       }
+    },
+    {
+      "async-forks": {
+        "json_url": "/json",
+        "plaintext_url": "/plaintext",
+        "port": 8080,
+        "approach": "Realistic",
+        "classification": "Platform",
+        "database": "None",
+        "framework": "None",
+        "language": "OCaml",
+        "flavor": "None",
+        "orm": "None",
+        "platform": "httpaf",
+        "webserver": "None",
+        "os": "Linux",
+        "database_os": "Linux",
+        "display_name": "httpaf-async-forks",
+        "notes": "",
+        "versus": "httpaf"
+      }
     }
   ]
 }
